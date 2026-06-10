@@ -14,6 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I build **websites** and tinker with **IoT** — and I learn best by *shipping real things*
+- 🍫 I run a small boutique web-design studio, **Choc Studio**
 - 🏢 I've designed & built **live websites for real clients** (see below 👇)
 - ⚡ I love connecting **software to the physical world** — like a web app that controls a real LED
 - 🎯 My goal: grow into a confident **full-stack developer**, one project at a time
@@ -22,15 +23,41 @@
 
 ### 🌐 Websites I've Built
 
-Real, **live** sites I designed & built for clients:
+Real, **live** sites I designed & built — tap any preview to visit:
 
-| Project | What it is | Live Site |
-|---------|-----------|-----------|
-| **Enlightenment LLC** | Business / services website | [![Visit](https://img.shields.io/badge/Visit_Live_Site-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://www.enlightenmentllc.net) |
-| **Arasiba Wellness** | Wellness brand website | [![Visit](https://img.shields.io/badge/Visit_Live_Site-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://arasibawellness.com) |
-| **Choc Studio** | Creative studio website | [![Visit](https://img.shields.io/badge/Visit_Live_Site-2ea44f?style=for-the-badge&logo=netlify&logoColor=white)](https://choc-studio.netlify.app) |
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.enlightenmentllc.net">
+        <img src="assets/enlightenment.png" width="100%" alt="Enlightenment LLC website preview" />
+      </a>
+      <br /><b>Enlightenment LLC</b>
+      <br /><sub>Psychiatric care &amp; telehealth across Nevada — evaluations, TMS therapy &amp; counseling.</sub>
+      <br /><br />
+      <a href="https://www.enlightenmentllc.net">🌐 <b>Visit Site</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://arasibawellness.com">
+        <img src="assets/arasiba.png" width="100%" alt="Arasiba Wellness website preview" />
+      </a>
+      <br /><b>Arasiba Wellness</b>
+      <br /><sub>Medical aesthetics, weight loss &amp; longevity care in Las Vegas.</sub>
+      <br /><br />
+      <a href="https://arasibawellness.com">🌐 <b>Visit Site</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://choc-studio.netlify.app">
+        <img src="assets/choc-studio.png" width="100%" alt="Choc Studio website preview" />
+      </a>
+      <br /><b>Choc Studio</b> 🍫
+      <br /><sub>My boutique web-design studio — fast, premium, hand-built sites.</sub>
+      <br /><br />
+      <a href="https://choc-studio.netlify.app">🌐 <b>Visit Site</b></a>
+    </td>
+  </tr>
+</table>
 
-> 💼 Source code for client sites is kept private — tap **Visit Live Site** to see the real, deployed work.
+> 💼 Source code for client sites is kept private — tap **Visit Site** to see the real, deployed work.
 
 ---
 
@@ -72,6 +99,7 @@ Real, **live** sites I designed & built for clients:
 ### 📫 Find Me
 
 - 🐙 GitHub: [@nicolasricbryant-blip](https://github.com/nicolasricbryant-blip)
+- 🍫 Studio: [Choc Studio](https://choc-studio.netlify.app)
 
 ---
 
