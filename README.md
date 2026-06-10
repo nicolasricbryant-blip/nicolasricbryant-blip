@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20IoT-success?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Sites%20Shipped-3%20live-blue?style=flat-square" alt="Sites shipped" />
+  <img src="https://img.shields.io/badge/Sites%20Shipped-4%20live-blue?style=flat-square" alt="Sites shipped" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-orange?style=flat-square" alt="Status" />
 </p>
 
@@ -27,37 +27,36 @@ Real, **live** sites I designed & built — tap any preview to visit:
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://www.enlightenmentllc.net">
-        <img src="assets/enlightenment.png" width="100%" alt="Enlightenment LLC website preview" />
-      </a>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.enlightenmentllc.net"><img src="assets/enlightenment.png" width="100%" alt="Enlightenment LLC website preview" /></a>
       <br /><b>Enlightenment LLC</b>
       <br /><sub>Psychiatric care &amp; telehealth across Nevada — evaluations, TMS therapy &amp; counseling.</sub>
-      <br /><br />
-      <a href="https://www.enlightenmentllc.net">🌐 <b>Visit Site</b></a>
+      <br /><br /><a href="https://www.enlightenmentllc.net">🌐 <b>Visit Site</b></a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://arasibawellness.com">
-        <img src="assets/arasiba.png" width="100%" alt="Arasiba Wellness website preview" />
-      </a>
+    <td width="50%" align="center" valign="top">
+      <a href="https://arasibawellness.com"><img src="assets/arasiba.png" width="100%" alt="Arasiba Wellness website preview" /></a>
       <br /><b>Arasiba Wellness</b>
       <br /><sub>Medical aesthetics, weight loss &amp; longevity care in Las Vegas.</sub>
-      <br /><br />
-      <a href="https://arasibawellness.com">🌐 <b>Visit Site</b></a>
+      <br /><br /><a href="https://arasibawellness.com">🌐 <b>Visit Site</b></a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://choc-studio.netlify.app">
-        <img src="assets/choc-studio.png" width="100%" alt="Choc Studio website preview" />
-      </a>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://choc-studio.netlify.app"><img src="assets/choc-studio.png" width="100%" alt="Choc Studio website preview" /></a>
       <br /><b>Choc Studio</b> 🍫
       <br /><sub>My boutique web-design studio — fast, premium, hand-built sites.</sub>
-      <br /><br />
-      <a href="https://choc-studio.netlify.app">🌐 <b>Visit Site</b></a>
+      <br /><br /><a href="https://choc-studio.netlify.app">🌐 <b>Visit Site</b></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://cpumap.netlify.app"><img src="assets/cpu-map.png" width="100%" alt="CPU Campus Navigator preview" /></a>
+      <br /><b>CPU Campus Navigator</b>
+      <br /><sub>Interactive campus map for Central Philippine University — search, directions &amp; filters.</sub>
+      <br /><br /><a href="https://cpumap.netlify.app">🌐 <b>Visit Site</b></a> &nbsp;·&nbsp; <a href="https://github.com/nicolasricbryant-blip/cpu-campus-map-redesign">💻 <b>Code</b></a>
     </td>
   </tr>
 </table>
 
-> 💼 Source code for client sites is kept private — tap **Visit Site** to see the real, deployed work.
+> 💼 Client-site source is kept private — tap **Visit Site** to see the deployed work. The CPU map is open-source (tap **Code**).
 
 ---
 
@@ -69,6 +68,7 @@ Real, **live** sites I designed & built — tap any preview to visit:
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino%20%2F%20ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
